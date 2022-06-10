@@ -47,6 +47,13 @@ This software uses the following open source packages:
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
+- saweria.co : [ Traktir baso aja at saweria [ DANA, OVO, dll ] ](https://saweria.co/aslanasilon3)
+- trakterr.id : [ Traktir mie ayam aja at saweria [ DANA, OVO, dll ] ](https://trakteer.id/sulaslan-setiawan3-kjb07)
+
+<br>
+
+siapapun, berapa pun, saya ucapkan terimakasih.
+
 ## You may also like...
 
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
