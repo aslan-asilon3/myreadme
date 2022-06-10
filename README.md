@@ -4,20 +4,24 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/aslan-asilon3/myreadme.git
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd myreadme
 
 # Install dependencies
-$ npm install
+$ npm install  && npm run dev
 
 # Run the app
-$ npm start
+$ php artisan serve
 ```
 
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+### Acess for login
+
+| Name/username  | Email                   | Password     | Level
+| -------------- | ----------------------- | ------------ | -----
+| aslanasilon1   | aslanasilon1@gmail.com  | aslanasilon1 | admin
+| aslanasilon2   | aslanasilon2@gmail.com  | aslanasilon2 | user|
 
 
 ## Download
@@ -28,13 +32,8 @@ You can [download](https://github.com/aslan-asilon3/myreadme.git) the latest ins
 
 This software uses the following open source packages:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Laravel 8 ](http://laravel.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 
 ## Support
@@ -43,7 +42,7 @@ This software uses the following open source packages:
 
 <p>Or</p> 
 
-<a href="https://www.patreon.com/amitmerchant">
+<a href="https://www.patreon.com/aslanasilon3">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
