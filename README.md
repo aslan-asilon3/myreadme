@@ -1,9 +1,11 @@
 
+![IconTray](https://user-images.githubusercontent.com/75960970/173133113-833239e0-43af-4988-bf80-6251c9d0d14f.png)
 
+<img src="![IconTray](https://user-images.githubusercontent.com/75960970/173133113-833239e0-43af-4988-bf80-6251c9d0d14f.png)" width="150" height="280"></img>
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="![Alt text](/myread/icon/IconTray.png?raw=true " alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="![Alt text](/myread/icon/IconTray.png?raw=true)" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
   <br>
