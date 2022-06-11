@@ -18,9 +18,16 @@ $ php artisan serve
 
 ### Acess for login
 
+from PIL import Image
 
-thumb = pyvips.Image.thumbnail("myread/cobagif2.gif", 128, n=-1)
-thumb.write_to_file("myread/cobagif2.gif")
+image = Image.open("myread/cobagif2.gif")
+
+frames = []
+for i in range(image.n_frames):
+    image.seek(i)
+    frames.append(image.resize((512, 512), resample=Image.BICUBIC))
+
+frames[0].save("myread/cobagif2", save_all=True, append_images=frames[1:], duration=100, loop=0)
 
 
 | Name/username  | Email                   | Password     | Level
