@@ -20,7 +20,7 @@ $ php artisan serve
 
 <div class="video-size">
 <video  autoplay loop controls muted>
-  <source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4">
+  <source src="myread/gif/cobagif1.gif" type="video/mp4">
 </video>
 </div>
 
