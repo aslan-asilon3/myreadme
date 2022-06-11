@@ -20,7 +20,7 @@ $ php artisan serve
 
 
 <video width="100%" controls>
-  <source src=["mov_bbb.mp4](https://user-images.githubusercontent.com/75960970/173187861-ad1b8b1a-4cb1-4f0b-b3ec-4a6732427fee.gif)" type="video/gif">
+  <source src="myread/cobagif2.gif" type="video/gif">
 </video>
 
 | Name/username  | Email                   | Password     | Level
