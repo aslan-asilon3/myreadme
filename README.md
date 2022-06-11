@@ -19,9 +19,8 @@ $ php artisan serve
 ### Acess for login
 
 
-<video width="100%" controls>
-  <source src="myread/cobagif2.gif" type="video/gif">
-</video>
+thumb = pyvips.Image.thumbnail("myread/cobagif2.gif", 128, n=-1)
+thumb.write_to_file("x.gif")
 
 | Name/username  | Email                   | Password     | Level
 | -------------- | ----------------------- | ------------ | -----
