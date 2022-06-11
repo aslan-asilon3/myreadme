@@ -51,7 +51,7 @@ This software uses the following open source packages:
 
 <br>
 
-siapapun, berapa pun, saya ucapkan terimakasih.
+many thanks!
 
 ## You may also like...
 
