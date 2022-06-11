@@ -18,16 +18,7 @@ $ php artisan serve
 
 ### Acess for login
 
-from PIL import Image
-
-image = Image.open("myread/cobagif2.gif")
-
-frames = []
-for i in range(image.n_frames):
-    image.seek(i)
-    frames.append(image.resize((512, 512), resample=Image.BICUBIC))
-
-frames[0].save("myread/cobagif2", save_all=True, append_images=frames[1:], duration=100, loop=0)
+<video src="myread/cobagif2.gif" width=50% height=50%>
 
 
 | Name/username  | Email                   | Password     | Level
@@ -65,10 +56,6 @@ This software uses the following open source packages:
 
 many thanks!
 
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
 ## License
 
@@ -76,7 +63,6 @@ MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> [aslanasilon3.com](https://www.aslanasilon3.com) &nbsp;&middot;&nbsp;
+> GitHub [@aslan-asilon3]([https://github.com/amitmerchant1990](https://github.com/aslan-asilon3)) &nbsp;&middot;&nbsp;
 
