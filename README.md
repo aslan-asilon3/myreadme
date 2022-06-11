@@ -18,9 +18,10 @@ $ php artisan serve
 
 ### Acess for login
 
-
+```
 thumb = pyvips.Image.thumbnail("myread/cobagif2.gif", 128, n=-1)
 thumb.write_to_file("x.gif")
+```
 
 | Name/username  | Email                   | Password     | Level
 | -------------- | ----------------------- | ------------ | -----
