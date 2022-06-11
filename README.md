@@ -27,7 +27,7 @@ $ php artisan serve
 | aslanasilon2   | aslanasilon2@gmail.com  | aslanasilon2 | user|
 
 
-## Download
+## How To Download
 
 You can [download](https://github.com/aslan-asilon3/myreadme.git) the latest installable version of AslanProject for Windows, macOS and Linux.
 
