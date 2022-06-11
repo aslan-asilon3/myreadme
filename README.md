@@ -18,11 +18,7 @@ $ php artisan serve
 
 ### Acess for login
 
-<div class="video-size">
-<video  autoplay loop controls muted>
-  <source src="https://github.com/aslan-asilon3/myreadme/issues/2#issuecomment-1152911166" type="video/mp4">
-</video>
-</div>
+https://github.com/aslan-asilon3/myreadme/issues/2#issuecomment-1152911166
 
 | Name/username  | Email                   | Password     | Level
 | -------------- | ----------------------- | ------------ | -----
