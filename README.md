@@ -1,18 +1,20 @@
-# How To Use
+# MyReadme
+
+## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-# Clone this repository
+## Clone this repository
 $ git clone https://github.com/aslan-asilon3/myreadme.git
 
-# Go into the repository
+## Go into the repository
 $ cd myreadme
 
-# Install dependencies
+## Install dependencies
 $ npm install  && npm run dev
 
-# Run the app
+## Run the app
 $ php artisan serve
 ```
 
