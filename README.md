@@ -30,6 +30,12 @@ $ php artisan serve
 
 You can [download](https://github.com/aslan-asilon3/myreadme.git) the latest installable version of AslanProject for Windows, macOS and Linux.
 
+## Some Ways to use import and export excel and CSV file in laravel
+
+<ul>
+	<li>maatwebsite/excel Package</li>
+	<li>rap2hpoutre/fast-excel</li>
+</ul>
 ## Credits
 
 This software uses the following open source packages:
